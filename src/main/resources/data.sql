@@ -1,0 +1,10 @@
+INSERT INTO `helloproduct-1771155`.`producttable` (`category`, `description`, `manufacturer`, `name`, `price`, `unit_in_stock`) VALUES ('mobilephone', '사과향이 난다.', 'apple', 'IPhoneX', '1400000', '15');
+INSERT INTO `helloproduct-1771155`.`producttable` (`category`, `description`, `manufacturer`, `name`, `price`, `unit_in_stock`) VALUES ('mobilephone', '우주의 기운이 느껴진다.', 'samsung', 'galaxyS20', '1500000', '101');
+INSERT INTO `helloproduct-1771155`.`producttable` (`category`, `description`, `manufacturer`, `name`, `price`, `unit_in_stock`) VALUES ('mobilephone', '매우 튼튼하다.그뿐이다', 'LG', 'ㅣ', '1350000', '13');
+INSERT INTO `helloproduct-1771155`.`producttable` (`category`, `description`, `manufacturer`, `name`, `price`, `unit_in_stock`) VALUES ('labtop', '가벼운만큼 비싸다..', 'LG', 'Gram2020', '1750000', '18');
+INSERT INTO `helloproduct-1771155`.`producttable` (`category`, `description`, `manufacturer`, `name`, `price`, `unit_in_stock`) VALUES ('labtop', '사과향이 나지만 매우 비싸다...', 'apple', 'MacBook', '2200000', '5');
+INSERT INTO `helloproduct-1771155`.`producttable` (`category`, `description`, `manufacturer`, `name`, `price`, `unit_in_stock`) VALUES ('labtop', '우주의 기운이 느껴진다', 'samsung', 'galaxyBook', '1500000', '15');
+INSERT INTO `helloproduct-1771155`.`producttable` (`category`, `description`, `manufacturer`, `name`, `price`, `unit_in_stock`) VALUES ('labtop', '전통이 우수하다', 'lenovo', 'ThinkPad', '2000000', '19');
+INSERT INTO `helloproduct-1771155`.`producttable` (`category`, `description`, `manufacturer`, `name`, `price`, `unit_in_stock`) VALUES ('mobilephone', '대륙의 기상이 느껴진다', 'huawei', 'P30', '800000', '9000');
+INSERT INTO `helloproduct-1771155`.`producttable` (`category`, `description`, `manufacturer`, `name`, `price`, `unit_in_stock`) VALUES ('tablet', '사과향이 난다.', 'apple', 'IPad_Pro', '1300000', '7');
+INSERT INTO `helloproduct-1771155`.`producttable` (`category`, `description`, `manufacturer`, `name`, `price`, `unit_in_stock`) VALUES ('tablet', '우주의 기운이 느껴진다.', 'samsung', 'galaxyTab', '900000', '12');
